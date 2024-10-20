@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\repos\\ORM-and-Dapper-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A13AE82-9528-4D2A-A29F-576B0BA922FB}|ORM-Dapper\\ORM-Dapper.csproj|c:\\repos\\orm-and-dapper-exercise\\orm-dapper\\dapperproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A13AE82-9528-4D2A-A29F-576B0BA922FB}|ORM-Dapper\\ORM-Dapper.csproj|solutionrelative:orm-dapper\\dapperproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A13AE82-9528-4D2A-A29F-576B0BA922FB}|ORM-Dapper\\ORM-Dapper.csproj|c:\\repos\\orm-and-dapper-exercise\\orm-dapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A13AE82-9528-4D2A-A29F-576B0BA922FB}|ORM-Dapper\\ORM-Dapper.csproj|solutionrelative:orm-dapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A13AE82-9528-4D2A-A29F-576B0BA922FB}|ORM-Dapper\\ORM-Dapper.csproj|c:\\repos\\orm-and-dapper-exercise\\orm-dapper\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A13AE82-9528-4D2A-A29F-576B0BA922FB}|ORM-Dapper\\ORM-Dapper.csproj|solutionrelative:orm-dapper\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A13AE82-9528-4D2A-A29F-576B0BA922FB}|ORM-Dapper\\ORM-Dapper.csproj|c:\\repos\\orm-and-dapper-exercise\\orm-dapper\\dapperdepartmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A13AE82-9528-4D2A-A29F-576B0BA922FB}|ORM-Dapper\\ORM-Dapper.csproj|solutionrelative:orm-dapper\\dapperdepartmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A13AE82-9528-4D2A-A29F-576B0BA922FB}|ORM-Dapper\\ORM-Dapper.csproj|c:\\repos\\orm-and-dapper-exercise\\orm-dapper\\iproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A13AE82-9528-4D2A-A29F-576B0BA922FB}|ORM-Dapper\\ORM-Dapper.csproj|solutionrelative:orm-dapper\\iproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A13AE82-9528-4D2A-A29F-576B0BA922FB}|ORM-Dapper\\ORM-Dapper.csproj|c:\\repos\\orm-and-dapper-exercise\\orm-dapper\\idepartmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A13AE82-9528-4D2A-A29F-576B0BA922FB}|ORM-Dapper\\ORM-Dapper.csproj|solutionrelative:orm-dapper\\idepartmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A13AE82-9528-4D2A-A29F-576B0BA922FB}|ORM-Dapper\\ORM-Dapper.csproj|c:\\repos\\orm-and-dapper-exercise\\orm-dapper\\orm-dapper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4A13AE82-9528-4D2A-A29F-576B0BA922FB}|ORM-Dapper\\ORM-Dapper.csproj|solutionrelative:orm-dapper\\orm-dapper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A13AE82-9528-4D2A-A29F-576B0BA922FB}|ORM-Dapper\\ORM-Dapper.csproj|c:\\repos\\orm-and-dapper-exercise\\orm-dapper\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A13AE82-9528-4D2A-A29F-576B0BA922FB}|ORM-Dapper\\ORM-Dapper.csproj|solutionrelative:orm-dapper\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A13AE82-9528-4D2A-A29F-576B0BA922FB}|ORM-Dapper\\ORM-Dapper.csproj|c:\\repos\\orm-and-dapper-exercise\\orm-dapper\\bin\\debug\\net6.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A13AE82-9528-4D2A-A29F-576B0BA922FB}|ORM-Dapper\\ORM-Dapper.csproj|solutionrelative:orm-dapper\\bin\\debug\\net6.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A13AE82-9528-4D2A-A29F-576B0BA922FB}|ORM-Dapper\\ORM-Dapper.csproj|c:\\repos\\orm-and-dapper-exercise\\orm-dapper\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{4A13AE82-9528-4D2A-A29F-576B0BA922FB}|ORM-Dapper\\ORM-Dapper.csproj|solutionrelative:orm-dapper\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\repos\\ORM-and-Dapper-Exercise\\ORM-Dapper\\Department.cs",
+              "RelativeDocumentMoniker": "ORM-Dapper\\Department.cs",
+              "ToolTip": "C:\\repos\\ORM-and-Dapper-Exercise\\ORM-Dapper\\Department.cs",
+              "RelativeToolTip": "ORM-Dapper\\Department.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:37:47.556Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DapperProductRepo.cs",
+              "DocumentMoniker": "C:\\repos\\ORM-and-Dapper-Exercise\\ORM-Dapper\\DapperProductRepo.cs",
+              "RelativeDocumentMoniker": "ORM-Dapper\\DapperProductRepo.cs",
+              "ToolTip": "C:\\repos\\ORM-and-Dapper-Exercise\\ORM-Dapper\\DapperProductRepo.cs",
+              "RelativeToolTip": "ORM-Dapper\\DapperProductRepo.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwC0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:22:26.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductRepo.cs",
+              "DocumentMoniker": "C:\\Repos\\ORM-and-Dapper-Exercise\\ORM-Dapper\\IProductRepo.cs",
+              "RelativeDocumentMoniker": "ORM-Dapper\\IProductRepo.cs",
+              "ToolTip": "C:\\Repos\\ORM-and-Dapper-Exercise\\ORM-Dapper\\IProductRepo.cs",
+              "RelativeToolTip": "ORM-Dapper\\IProductRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:16:25.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\repos\\ORM-and-Dapper-Exercise\\ORM-Dapper\\Products.cs",
+              "RelativeDocumentMoniker": "ORM-Dapper\\Products.cs",
+              "ToolTip": "C:\\repos\\ORM-and-Dapper-Exercise\\ORM-Dapper\\Products.cs",
+              "RelativeToolTip": "ORM-Dapper\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:08:13.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ORM-Dapper",
+              "DocumentMoniker": "C:\\Repos\\ORM-and-Dapper-Exercise\\ORM-Dapper\\ORM-Dapper.csproj",
+              "RelativeDocumentMoniker": "ORM-Dapper\\ORM-Dapper.csproj",
+              "ToolTip": "C:\\Repos\\ORM-and-Dapper-Exercise\\ORM-Dapper\\ORM-Dapper.csproj",
+              "RelativeToolTip": "ORM-Dapper\\ORM-Dapper.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-19T23:55:26.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\repos\\ORM-and-Dapper-Exercise\\ORM-Dapper\\.gitignore",
+              "RelativeDocumentMoniker": "ORM-Dapper\\.gitignore",
+              "ToolTip": "C:\\repos\\ORM-and-Dapper-Exercise\\ORM-Dapper\\.gitignore",
+              "RelativeToolTip": "ORM-Dapper\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHgSURBVEhLtZVdTsJAFIWroTyDK3ELJuCbsA1ZhQRFRETkV6yV8AAsgAI\u002BugW3wAr0RUop7Tj3dmagtLXFhJOc3mEynXu\u002BSWmlg4oQcsSGqOFwSKcIzAcY7rFZdeZkWf42DOMsl7v8ZNsEazAYEMuyXF5zr7nXWG3bJqPRiMznc6Kqb1\u002BtdueUbePSMasoSASiN0sW2AJbwrSRMKwBJZNJKZVOJeJx\u002BaPRbHma\u002BDbAqzOMpBPa5DydxiZsSijGKoo30MZjrH8pm81iVRQFKygmxxNs6K9\u002Bv4/nvlqZ1CticBuOl8IGWS4NogsviWmuSe2p7uH2EMAKTQsn2FUmkxUnEKher4dPjH9ymjogva47BNXHWhgBXCRpomnOxB6KRKCqKhJsznoneUD6BSOoPFSjEUwnByJQlFf8l7rTO6ndyalZcm7TNEn5vhJG4CD8h\u002BAikwkn6HZf8F3jSSu8OfNt/yx0sqIEpbtyOAGsmE4nzsQeikTQ7jwTkxKItCyxX2qenBsIirelcAJAmB2KoNlq4/Psl1Z4K/UuQeGmGIGA6n02xbqPgIBuwH4FqN5o4vMMKYOSBhkI8oVrTwfPBwdWxOQYWt7D/P5duT768D7HJhFtU9MBVj5XyF\u002B59jywJOkX7ucXnGOxDX8AAAAASUVORK5CYII=",
+              "WhenOpened": "2024-10-11T00:27:22.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\repos\\ORM-and-Dapper-Exercise\\ORM-Dapper\\bin\\Debug\\net6.0\\appsettings.json",
+              "RelativeDocumentMoniker": "ORM-Dapper\\bin\\Debug\\net6.0\\appsettings.json",
+              "ToolTip": "C:\\repos\\ORM-and-Dapper-Exercise\\ORM-Dapper\\bin\\Debug\\net6.0\\appsettings.json",
+              "RelativeToolTip": "ORM-Dapper\\bin\\Debug\\net6.0\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAtwAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T00:11:31.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DapperDepartmentRepo.cs",
+              "DocumentMoniker": "C:\\repos\\ORM-and-Dapper-Exercise\\ORM-Dapper\\DapperDepartmentRepo.cs",
+              "RelativeDocumentMoniker": "ORM-Dapper\\DapperDepartmentRepo.cs",
+              "ToolTip": "C:\\repos\\ORM-and-Dapper-Exercise\\ORM-Dapper\\DapperDepartmentRepo.cs",
+              "RelativeToolTip": "ORM-Dapper\\DapperDepartmentRepo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:51:19.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDepartmentRepo.cs",
+              "DocumentMoniker": "C:\\repos\\ORM-and-Dapper-Exercise\\ORM-Dapper\\IDepartmentRepo.cs",
+              "RelativeDocumentMoniker": "ORM-Dapper\\IDepartmentRepo.cs",
+              "ToolTip": "C:\\repos\\ORM-and-Dapper-Exercise\\ORM-Dapper\\IDepartmentRepo.cs",
+              "RelativeToolTip": "ORM-Dapper\\IDepartmentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:42:37.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\repos\\ORM-and-Dapper-Exercise\\ORM-Dapper\\Program.cs",
+              "RelativeDocumentMoniker": "ORM-Dapper\\Program.cs",
+              "ToolTip": "C:\\repos\\ORM-and-Dapper-Exercise\\ORM-Dapper\\Program.cs",
+              "RelativeToolTip": "ORM-Dapper\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwBsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T23:50:49.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1578,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

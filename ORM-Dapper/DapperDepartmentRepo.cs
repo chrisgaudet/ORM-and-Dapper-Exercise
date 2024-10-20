@@ -17,9 +17,14 @@ namespace ORM_Dapper
 
         }
 
-        IEnumerable<Department> GetAllDepts()
+        public IEnumerable<Department> GetAllDepts()
         {
-            _connection.Query<Department>("SELECT * FROM departments;")
+            return _connection.Query<Department>("SELECT * FROM departments;");
+        }
+
+        public void InsertDepartment(string name)
+        {
+            _connection.Execute("INSER INTO Departments (Name) VALUES (@name)", new {name = name});
         }
     }
 }
